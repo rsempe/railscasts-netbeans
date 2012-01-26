@@ -9,5 +9,5 @@ If you have any suggestions, I'd love to hear them!
 
 git clone git@github.com:rsempe/railscasts-netbeans.git
 cd railscasts-netbeans
-zip -r railscasts-netbeans 
+zip -r railscasts-netbeans .
 Go to Netbeans IDE options and import this zip file.
