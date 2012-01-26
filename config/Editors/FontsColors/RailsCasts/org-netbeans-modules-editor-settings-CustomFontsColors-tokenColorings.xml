@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ffa4c260" name="char"/>
+    <fontcolor name="markup-element"/>
+    <fontcolor name="private"/>
+    <fontcolor name="protected"/>
+    <fontcolor default="string" name="markup-attribute-value"/>
+    <fontcolor foreColor="gray" name="unused"/>
+    <fontcolor name="constructor">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="abstract"/>
+    <fontcolor name="deprecated" strikeThrough="darkGray"/>
+    <fontcolor name="static">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor name="error" waveUnderlined="red"/>
+    <fontcolor name="method-parameter"/>
+    <fontcolor foreColor="ffe67832" name="keyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="black" name="whitespace"/>
+    <fontcolor name="class"/>
+    <fontcolor name="number"/>
+    <fontcolor name="enum"/>
+    <fontcolor name="interface"/>
+    <fontcolor name="operator"/>
+    <fontcolor name="url"/>
+    <fontcolor name="field">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor bgColor="ff232323" foreColor="ffe0e0e0" name="default">
+        <font name="Monaco" size="14"/>
+    </fontcolor>
+    <fontcolor foreColor="ffa4c260" name="string"/>
+    <fontcolor foreColor="ffb20000" name="entity-reference"/>
+    <fontcolor name="method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ff737373" name="comment"/>
+    <fontcolor name="local-variable"/>
+    <fontcolor name="public"/>
+    <fontcolor name="identifier"/>
+    <fontcolor name="warning" waveUnderlined="yellow"/>
+    <fontcolor name="separator"/>
+    <fontcolor name="markup-attribute"/>
+</fontscolors>
